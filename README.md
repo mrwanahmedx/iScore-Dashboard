@@ -1,10 +1,10 @@
-# iScore Credit Bureau Dashboard
+# Credit Risk Tableau Dashboard — Legacy Portfolio
 
-> **Legacy / not recruiter-featured:** this repository is retained as historical Tableau portfolio work. The packaged workbook has not completed the same artifact-level confidentiality audit as the newer clean-room projects, so it is deliberately excluded from the active portfolio path. The newer synthetic Credit Risk Lab contains the preferred public risk/validation work.
+> **Legacy / not recruiter-featured:** the repository name is historical. This is an independent portfolio project and is not affiliated with any employer or credit bureau. The active recruiter path uses newer clean-room synthetic projects.
 
 Interactive Tableau portfolio project focused on credit-bureau-style reporting, portfolio segmentation, delinquency monitoring, and risk-oriented data storytelling.
 
-> **Portfolio note:** this is an independent project using a public / portfolio dataset. It is not affiliated with iScore and does not contain employer, bureau, or confidential customer data.
+> **Portfolio note:** this project uses the public `credit_risk_dataset.csv` dataset published by Lao Tse on Kaggle under CC0/Public Domain terms. Workbook metadata was re-audited on 2026-09-26 and points to that public dataset schema. No employer, bureau, or confidential customer dataset is required by this project.
 
 ## What the project demonstrates
 
@@ -39,7 +39,7 @@ The repository retains a GitHub Pages wrapper for historical reference:
 
 **[Open the live Tableau dashboard](https://mrwanahmedx.github.io/iScore-Dashboard/)**
 
-The packaged workbook is retained as a historical artifact. It is not used by the active clean-room risk portfolio.
+The packaged workbook is retained as a historical artifact. Its source metadata points to the public CC0 credit-risk dataset documented in `DATA_PROVENANCE.md`; it is not used by the active clean-room risk portfolio.
 
 ## Analytical structure
 
@@ -85,7 +85,7 @@ The dashboard is descriptive. It supports exploration and reporting; it is **not
 
 ## Related engineering case study
 
-The newer **Data Observatory / iScore Credit Lab** expands the credit-risk theme into a web-first Python + SQL + model-validation case study with synthetic data, explicit grain controls, anti-fan-out SQL, calibration, threshold analysis, and automated tests.
+The newer **Data Observatory / Credit Risk Lab** expands the credit-risk theme into a web-first Python + SQL + model-validation case study with synthetic data, explicit grain controls, anti-fan-out SQL, calibration, threshold analysis, and automated tests.
 
 **[Open the iScore Credit Lab](https://mrwanahmedx.github.io/data-observatory/score.html)**  
 **[View Data Observatory source](https://github.com/mrwanahmedx/data-observatory)**
