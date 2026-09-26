@@ -1,5 +1,7 @@
 # iScore Credit Bureau Dashboard
 
+> **Legacy / not recruiter-featured:** this repository is retained as historical Tableau portfolio work. The packaged workbook has not completed the same artifact-level confidentiality audit as the newer clean-room projects, so it is deliberately excluded from the active portfolio path. The newer synthetic Credit Risk Lab contains the preferred public risk/validation work.
+
 Interactive Tableau portfolio project focused on credit-bureau-style reporting, portfolio segmentation, delinquency monitoring, and risk-oriented data storytelling.
 
 > **Portfolio note:** this is an independent project using a public / portfolio dataset. It is not affiliated with iScore and does not contain employer, bureau, or confidential customer data.
@@ -33,11 +35,11 @@ Interactive Tableau portfolio project focused on credit-bureau-style reporting, 
 
 ## Live dashboard
 
-The repository includes a GitHub Pages wrapper for the published Tableau workbook:
+The repository retains a GitHub Pages wrapper for historical reference:
 
 **[Open the live Tableau dashboard](https://mrwanahmedx.github.io/iScore-Dashboard/)**
 
-The workbook source is also included as `iScore.twbx`.
+The packaged workbook is retained as a historical artifact. It is not used by the active clean-room risk portfolio.
 
 ## Analytical structure
 
